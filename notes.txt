@@ -80,3 +80,7 @@ int main()
 //cout << boolalpha; // program will print "true" and "false" from now
 
 
+vectors – Vectors are sequence containers similar to arrays, with the additional flexibility the elements can be inserted / deleted
+pairs – a pair of values which may be of different types
+maps – container which stores key–value pairs
+iterators - Iterators point to a location. C++ containers such as vectors and maps define .begin() and .end() iterators, which allows us to iterate over all values in the container.
